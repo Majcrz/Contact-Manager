@@ -1,0 +1,43 @@
+.abc{
+    background-color: grey;
+    height: 100px;
+    margin-left: 50px;
+    border-radius: 30px;
+    width: 900px;
+    margin-top: 100px;
+   
+}
+
+.icon1{
+margin-left: -500px;
+font-size: 30px;
+}
+.text{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+.icon2{
+    font-size: 30px;
+    margin-right: -500px;
+}
+.icon2 button{
+    background-color: grey;
+    border: none;
+}
+.icon2 button :hover{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.icon3{
+    font-size: 30px;
+    margin-right: -400px;
+
+
+}
+.icon3 button :hover{
+    background-color:  rgb(255, 255, 255);;
+}
+
+
